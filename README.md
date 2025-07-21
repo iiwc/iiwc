@@ -1,16 +1,35 @@
-## Hi there 👋
+<h2 align="center">🧠 Alex | iiwc</h2>
+<p align="center">
+  <i>multilingual hacker // language alchemist // silent coder</i><br>
+  👾 Breaks systems, builds silence.<br>
+  🐚 Fluent in terminals, obsessed with minimalism.<br>
+  🧬 Specializing in languages, AI, and digital ghosts.
+</p>
 
-<!--
-**iiwc/iiwc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧩 About Me
+- 🧠 Self-taught polyglot dev
+- 🛠️ Reverse engineer & silent analyst
+- 💬 Fluent in: Python, JS, C, Shell, SQL, Lua...
+- 💣 Plays with exploits for fun
+- 🎭 Living in shadows, thinking in code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧷 Links
+- 🌐 Site (soon): [iiwc.dev](#)
+- 🕶️ Matrix: `@iiwc:envs.net`
+- 📸 Instagram: [@y4ku](https://instagram.com/y4ku)
+
+---
+
+### 💻 My Stack
+
+---
+
+🔧 **Stats**
+
+<!--START_SECTION:waka-->
+No data found...
+<!--END_SECTION:waka-->
