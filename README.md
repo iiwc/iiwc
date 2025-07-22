@@ -1,19 +1,19 @@
-<h2 align="center">🧠 Alex | iiwc</h2>
+<h2 align="center">  Alex | iiwc</h2>
 <p align="center">
   <i>multilingual hacker // language alchemist // silent coder</i><br>
-  👾 Breaks systems, builds silence.<br>
-  🐚 Fluent in terminals, obsessed with minimalism.<br>
-  🧬 Specializing in languages, AI, and digital ghosts.
+   Breaks systems, builds silence.<br>
+   Fluent in terminals, obsessed with minimalism.<br>
+   Specializing in languages, AI, and digital ghosts.
 </p>
 
 ---
 
 ### 🧩 About Me
-- 🧠 Self-taught polyglot dev
-- 🛠️ Reverse engineer & silent analyst
-- 💬 Fluent in: Python, JS, C, Shell, SQL, Lua...
-- 💣 Plays with exploits for fun
-- 🎭 Living in shadows, thinking in code
+-  Self-taught polyglot dev
+-  Reverse engineer & silent analyst
+-  Fluent in: Python, JS, C, Shell, SQL, Lua...
+-  Plays with exploits for fun
+-  Living in shadows, thinking in code
 
 ---
 
